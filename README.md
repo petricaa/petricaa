@@ -12,8 +12,7 @@ Software Engineering student at 42 Heilbronn 🇩🇪
 
 ## About Me
 
-I am a software engineering student at 42 Heilbronn with a strong focus on C and C++.
-I enjoy building projects from scratch and working close to the system level.
+C/C++ developer focused on systems programming, Unix/Linux environments and low-level development through 42 curriculum projects.
 
 ---
 
