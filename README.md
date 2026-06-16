@@ -11,18 +11,21 @@ Focused on C/C++ development through 42 curriculum projects involving Linux/Unix
 
 ## 🛠️ Languages and Tools
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-
-  <!-- GitHub (fixed visibility) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-</p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo"  />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cpp logo"  />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=bash" height="50" alt="bash logo"  />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
+</div>
 
 ---
 
