@@ -3,10 +3,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1E90FF&height=180&section=header&text=Hi%20I'm%20Petra&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=M+PLUS+Rounded+1c&weight=800&size=30&color=36BCF7&center=true&vCenter=true&width=700&height=60&lines=Welcome+to+my+profile!;42+Software+Engineering+Student;C%2FC%2B%2B+%7C+Linux+%7C+Git" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=M+PLUS+Rounded+1c&weight=800&size=30&color=36BCF7&center=true&vCenter=true&width=700&height=60&lines=Welcome+to+my+profile!" />
 </a>
 
 </h1>
+
+<div align="center">
 
 <div align="center">
 <div align="center">
