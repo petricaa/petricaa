@@ -10,13 +10,6 @@
 
 <div align="center">
 
-</h1>
-
-<div align="center">
-
-<div align="center">
-<div align="center">
-
 ## 🧠 About me
 Focused on C/C++ development through 42 curriculum projects involving Linux/Unix systems and low-level programming.
 
