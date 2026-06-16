@@ -4,7 +4,7 @@
 
 Software Engineering student at 42 Heilbronn 🇩🇪
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;Nice+to+meet+you!)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!)
 
 </div>
 
@@ -12,7 +12,7 @@ Software Engineering student at 42 Heilbronn 🇩🇪
 
 ## About Me
 
-C/C++ developer focused on systems programming, Unix/Linux environments and low-level development through 42 curriculum projects.
+C/C++ developer focused on systems programming, network programming and low-level development through 42 curriculum projects.
 
 ---
 
