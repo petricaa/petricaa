@@ -10,4 +10,4 @@ Focused on C/C++ development through 42 curriculum projects involving Linux/Unix
 ---
 
 ## 📫 Contact
-✉️ petra.sostaric.vuluc@gmail.com
+✉️ petra.sostaric.vulic@gmail.com
