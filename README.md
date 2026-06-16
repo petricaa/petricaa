@@ -1,7 +1,11 @@
-<div align="center">
+# Hi, I'm Petra
+
+42 Software Engineering student at 42 Heilbronn 🇩🇪
+
+---
 
 ## 🧠 About me
-Focused on C/C++ development through 42 curriculum projects involving Linux/Unix systems and low-level programming.
+C/C++ developer focused on systems programming, Unix/Linux environments and low-level software design through 42 curriculum projects.
 
 ---
 
@@ -20,15 +24,4 @@ Focused on C/C++ development through 42 curriculum projects involving Linux/Unix
 ---
 
 ## 📫 Contact
-
 ✉️ **petra.sostaric.vuluc@gmail.com**
-
-</div>
-
----
-
-<!-- CONTACT -->
-## 📫 Contact
-✉️ **petra.sostaric.vuluc@gmail.com**
-
-</div>
