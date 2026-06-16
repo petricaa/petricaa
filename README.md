@@ -2,7 +2,7 @@
 
 # Hi, I'm Petra
 
-![Typing](https://readme-typing-svg.demolab.com/?font=M+PLUS+Rounded+1c&weight=800&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile;C%2FC%2B%2B+Developer;42+Heilbronn+Student)
+![Typing](https://readme-typing-svg.demolab.com/?font=M+PLUS+Rounded+1c&weight=800&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile)
 
 42 Software Engineering student at 42 Heilbronn 🇩🇪
 
