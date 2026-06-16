@@ -17,7 +17,7 @@ C/C++ developer focused on systems programming, Unix/Linux environments and low-
 
 ## 🛠️ Languages and Tools
 
-<p align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="50"/>
   <img src="https://skillicons.dev/icons?i=cpp" height="50"/>
   <img src="https://skillicons.dev/icons?i=linux" height="50"/>
@@ -25,7 +25,7 @@ C/C++ developer focused on systems programming, Unix/Linux environments and low-
   <img src="https://skillicons.dev/icons?i=git" height="50"/>
   <img src="https://skillicons.dev/icons?i=github" height="50"/>
   <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
-</p>
+</div>
 
 ---
 
