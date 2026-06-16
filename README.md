@@ -1,5 +1,3 @@
-<div align="center">
-
 <!-- HEADER -->
 <h1 align="center">
 
@@ -11,15 +9,15 @@
 
 </h1>
 
+<div align="center">
+
 ---
 
-<!-- ABOUT -->
 ## 🧠 About me
 Focused on C/C++ development through 42 curriculum projects involving Linux/Unix systems and low-level programming.
 
 ---
 
-<!-- ICONS -->
 ## 🛠️ Languages and Tools
 
 <p align="center">
@@ -31,6 +29,13 @@ Focused on C/C++ development through 42 curriculum projects involving Linux/Unix
   <img src="https://skillicons.dev/icons?i=github" height="50"/>
   <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
 </p>
+
+---
+
+## 📫 Contact
+✉️ **petra.sostaric.vuluc@gmail.com**
+
+</div>
 
 ---
 
